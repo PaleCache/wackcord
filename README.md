@@ -2,7 +2,7 @@
 A dark semi transparent theme for element
 
 # ℹ️ Info
-How to install? just click copy raw then add the url in settings, appearance, then under add custom theme paste the url
+How to install: Click on 'wackcord.json,' copy the raw content, then go to Settings > Appearance. Under 'Add Custom Theme,' paste the URL.
 
 # 🧑‍💻 Developer
 PaleCache
